@@ -3963,7 +3963,7 @@
 	}
 
 		#intro p {
-			font-size: 1.25em;
+			font-size: 1em;
 		}
 
 			@media screen and (max-width: 980px) {
@@ -4001,7 +4001,26 @@
 			padding-top: 0px;
 		}
 
+		.text-logo2{
+			padding: 69px;
+			padding-top: 0px;
+		}
+
+
 		.logo-col{
 	min-width: 357px;
 		
+		}
+
+		.roodbolletje {
+			letter-spacing: 1px;
+			font-size: 16pt;
+			color:#646464;
+
+		.insprong {
+			padding-left: 28px;
+			padding-top: 5px;
+			padding-bottom: 5px;
+			font-size: 10pt;
+			color:#646464;
 		}
