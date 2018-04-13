@@ -1768,7 +1768,7 @@
 		}
 
 	h1 {
-	font-size: 96px;
+	font-size: 63px;
     font-family: "raleway2";
     letter-spacing: 3px;
 	}
@@ -3953,6 +3953,20 @@
 		}
 
 /* Intro */
+#rob{
+	width:50%;
+}
+
+@media screen and (max-width: 700px) {
+#rob{
+	width:100%;
+}
+}
+
+
+
+
+
 
 	#intro {
 		background-attachment: fixed;
@@ -4002,7 +4016,7 @@
 		}
 
 		.text-logo2{
-			padding: 69px;
+			padding-left: 69px;
 			padding-top: 0px;
 		}
 
@@ -4024,3 +4038,20 @@
 			font-size: 10pt;
 			color:#646464;
 		}
+
+		.accu-zot{
+			margin-top: 100px;
+
+		}
+
+		#logo1{
+			
+								
+									display: block;
+									margin-left: auto;
+									margin-right: auto;
+							
+								
+		}
+
+		
