@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
 @import url(http://nl.allfont.net/allfont.css?fonts=raleway-black);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 @font-face {
 	font-family: 'raleway-black-webfont.woff';
 	src: url('raleway-black-webfont.woff2') format('woff2'), url('raleway-black-webfont.woff') format('woff');
